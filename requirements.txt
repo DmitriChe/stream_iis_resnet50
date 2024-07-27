@@ -2,5 +2,6 @@ matplotlib==3.9.1
 Pillow
 Requests==2.32.3
 streamlit==1.32.0
-torch==2.5.0.dev20240725+cpu
-torchvision==0.20.0.dev20240726+cpu
+torch==2.3.1
+torchvision
+torchaudio
